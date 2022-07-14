@@ -1,1 +1,1 @@
-# Shell-files
+# shell shortcut files for DBMS
